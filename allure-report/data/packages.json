@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "FlixBus Application Checkout Page Test",
+    "children" : [ {
+      "name" : "should successfully navigate to home page",
+      "uid" : "3a61709a41bb85e6",
+      "parentUid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369084974,
+        "stop" : 1642369086834,
+        "duration" : 1860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to listing page",
+      "uid" : "4a9c3dee34ec2f53",
+      "parentUid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369086843,
+        "stop" : 1642369090019,
+        "duration" : 3176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to checkout page",
+      "uid" : "621042ebba5186b1",
+      "parentUid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369090019,
+        "stop" : 1642369094969,
+        "duration" : 4950
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully fill the passenger details",
+      "uid" : "3cd96a045a459e51",
+      "parentUid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369094970,
+        "stop" : 1642369095548,
+        "duration" : 578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to payment page via google pay option",
+      "uid" : "868ab4006e574131",
+      "parentUid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369095548,
+        "stop" : 1642369100982,
+        "duration" : 5434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    } ],
+    "uid" : "2c5f50e85b8e1a6eeaedc7b6a60b41df"
+  } ]
+}

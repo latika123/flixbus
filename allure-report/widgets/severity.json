@@ -1,0 +1,51 @@
+[ {
+  "uid" : "4a9c3dee34ec2f53",
+  "name" : "should successfully navigate to listing page",
+  "time" : {
+    "start" : 1642369086843,
+    "stop" : 1642369090019,
+    "duration" : 3176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "868ab4006e574131",
+  "name" : "should successfully navigate to payment page via google pay option",
+  "time" : {
+    "start" : 1642369095548,
+    "stop" : 1642369100982,
+    "duration" : 5434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "621042ebba5186b1",
+  "name" : "should successfully navigate to checkout page",
+  "time" : {
+    "start" : 1642369090019,
+    "stop" : 1642369094969,
+    "duration" : 4950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cd96a045a459e51",
+  "name" : "should successfully fill the passenger details",
+  "time" : {
+    "start" : 1642369094970,
+    "stop" : 1642369095548,
+    "duration" : 578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a61709a41bb85e6",
+  "name" : "should successfully navigate to home page",
+  "time" : {
+    "start" : 1642369084974,
+    "stop" : 1642369086834,
+    "duration" : 1860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

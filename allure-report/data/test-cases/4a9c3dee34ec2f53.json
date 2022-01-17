@@ -1,0 +1,58 @@
+{
+  "uid" : "4a9c3dee34ec2f53",
+  "name" : "should successfully navigate to listing page",
+  "fullName" : "FlixBus Application Checkout Page Test.should successfully navigate to listing page",
+  "historyId" : "6c1734013d9c96cbc53e5cb4589b9f1a",
+  "time" : {
+    "start" : 1642369086843,
+    "stop" : 1642369090019,
+    "duration" : 3176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "testClass",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should successfully navigate to listing page"
+  }, {
+    "name" : "package",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a9c3dee34ec2f53.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}
