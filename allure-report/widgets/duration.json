@@ -1,51 +1,61 @@
 [ {
-  "uid" : "3a61709a41bb85e6",
+  "uid" : "fa4e736fef7e5005",
   "name" : "should successfully navigate to home page",
   "time" : {
-    "start" : 1642369084974,
-    "stop" : 1642369086834,
-    "duration" : 1860
+    "start" : 1642382543903,
+    "stop" : 1642382545797,
+    "duration" : 1894
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "868ab4006e574131",
+  "uid" : "7907044fd9db0664",
   "name" : "should successfully navigate to payment page via google pay option",
   "time" : {
-    "start" : 1642369095548,
-    "stop" : 1642369100982,
-    "duration" : 5434
+    "start" : 1642382568950,
+    "stop" : 1642382572509,
+    "duration" : 3559
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "621042ebba5186b1",
+  "uid" : "93c4742ce3758738",
   "name" : "should successfully navigate to checkout page",
   "time" : {
-    "start" : 1642369090019,
-    "stop" : 1642369094969,
-    "duration" : 4950
+    "start" : 1642382549533,
+    "stop" : 1642382554827,
+    "duration" : 5294
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3cd96a045a459e51",
+  "uid" : "710f32fcc81f208b",
   "name" : "should successfully fill the passenger details",
   "time" : {
-    "start" : 1642369094970,
-    "stop" : 1642369095548,
-    "duration" : 578
+    "start" : 1642382554828,
+    "stop" : 1642382555552,
+    "duration" : 724
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4a9c3dee34ec2f53",
+  "uid" : "1158a49a0b49620e",
   "name" : "should successfully navigate to listing page",
   "time" : {
-    "start" : 1642369086843,
-    "stop" : 1642369090019,
-    "duration" : 3176
+    "start" : 1642382545816,
+    "stop" : 1642382549532,
+    "duration" : 3716
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "126869084e42227f",
+  "name" : "should successfully navigate to payment page via credit card",
+  "time" : {
+    "start" : 1642382555553,
+    "stop" : 1642382568950,
+    "duration" : 13397
+  },
+  "status" : "broken",
   "severity" : "normal"
 } ]

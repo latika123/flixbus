@@ -1,12 +1,12 @@
 {
-  "uid" : "3a61709a41bb85e6",
-  "name" : "should successfully navigate to home page",
-  "fullName" : "FlixBus Application Checkout Page Test.should successfully navigate to home page",
-  "historyId" : "b4833f681c199892db9eadea41d2a0ed",
+  "uid" : "5bb283c8c58100ed",
+  "name" : "should successfully navigate to payment page via google pay option",
+  "fullName" : "FlixBus Application Checkout Page Test.should successfully navigate to payment page via google pay option",
+  "historyId" : "b6ad5688dc761d7c3321b8050384dea",
   "time" : {
-    "start" : 1642369084974,
-    "stop" : 1642369086834,
-    "duration" : 1860
+    "start" : 1642369095548,
+    "stop" : 1642369100982,
+    "duration" : 5434
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "FlixBus Application Checkout Page Test"
   }, {
     "name" : "testMethod",
-    "value" : "should successfully navigate to home page"
+    "value" : "should successfully navigate to payment page via google pay option"
   }, {
     "name" : "package",
     "value" : "FlixBus Application Checkout Page Test"
@@ -45,14 +45,12 @@
     "value" : "chrome-97.0.4692.71"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "3a61709a41bb85e6.json",
+  "source" : "5bb283c8c58100ed.json",
   "parameterValues" : [ "chrome-97.0.4692.71" ]
 }

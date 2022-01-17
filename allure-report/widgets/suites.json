@@ -5,11 +5,11 @@
     "name" : "FlixBus Application Checkout Page Test",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     }
   } ]
 }

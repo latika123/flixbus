@@ -1,0 +1,74 @@
+{
+  "uid" : "710f32fcc81f208b",
+  "name" : "should successfully fill the passenger details",
+  "fullName" : "FlixBus Application Checkout Page Test.should successfully fill the passenger details",
+  "historyId" : "fdfa9fcc35ce552839f6147e204208ea",
+  "time" : {
+    "start" : 1642382554828,
+    "stop" : 1642382555552,
+    "duration" : 724
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "testClass",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should successfully fill the passenger details"
+  }, {
+    "name" : "package",
+    "value" : "FlixBus Application Checkout Page Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dc83b18d2b490ad4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382469914,
+        "stop" : 1642382470601,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "a34f9678e371a542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369094970,
+        "stop" : 1642369095548,
+        "duration" : 578
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "710f32fcc81f208b.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

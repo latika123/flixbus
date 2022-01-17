@@ -4,8 +4,34 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
+      "name" : "should successfully navigate to home page",
+      "uid" : "f1708ae8e7ddedb9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382460229,
+        "stop" : 1642382461975,
+        "duration" : 1746
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully fill the passenger details",
+      "uid" : "710f32fcc81f208b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382554828,
+        "stop" : 1642382555552,
+        "duration" : 724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
       "name" : "should successfully navigate to payment page via google pay option",
-      "uid" : "868ab4006e574131",
+      "uid" : "5bb283c8c58100ed",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -17,34 +43,73 @@
       "newFailed" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "should successfully navigate to listing page",
-      "uid" : "4a9c3dee34ec2f53",
+      "name" : "should successfully navigate to home page",
+      "uid" : "fa4e736fef7e5005",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1642369086843,
-        "stop" : 1642369090019,
-        "duration" : 3176
+        "start" : 1642382543903,
+        "stop" : 1642382545797,
+        "duration" : 1894
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "should successfully navigate to home page",
-      "uid" : "3a61709a41bb85e6",
+      "name" : "should successfully navigate to payment page via google pay option",
+      "uid" : "7907044fd9db0664",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1642369084974,
-        "stop" : 1642369086834,
-        "duration" : 1860
+        "start" : 1642382568950,
+        "stop" : 1642382572509,
+        "duration" : 3559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to checkout page",
+      "uid" : "a8a0d7e865dc1e6d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369090019,
+        "stop" : 1642369094969,
+        "duration" : 4950
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to listing page",
+      "uid" : "1158a49a0b49620e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382545816,
+        "stop" : 1642382549532,
+        "duration" : 3716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to listing page",
+      "uid" : "3b7b9f1581267534",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382461980,
+        "stop" : 1642382465057,
+        "duration" : 3077
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "should successfully fill the passenger details",
-      "uid" : "3cd96a045a459e51",
+      "uid" : "a34f9678e371a542",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -57,13 +122,104 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "should successfully navigate to checkout page",
-      "uid" : "621042ebba5186b1",
+      "uid" : "15348bc90e973998",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1642369090019,
-        "stop" : 1642369094969,
-        "duration" : 4950
+        "start" : 1642382465058,
+        "stop" : 1642382469914,
+        "duration" : 4856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to payment page via google pay option",
+      "uid" : "37de4cd6f48ab304",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382470601,
+        "stop" : 1642382476198,
+        "duration" : 5597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to payment page via credit card",
+      "uid" : "126869084e42227f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1642382555553,
+        "stop" : 1642382568950,
+        "duration" : 13397
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to checkout page",
+      "uid" : "93c4742ce3758738",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382549533,
+        "stop" : 1642382554827,
+        "duration" : 5294
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to listing page",
+      "uid" : "f5e9ff8f7c2228ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369086843,
+        "stop" : 1642369090019,
+        "duration" : 3176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully fill the passenger details",
+      "uid" : "dc83b18d2b490ad4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382469914,
+        "stop" : 1642382470601,
+        "duration" : 687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to payment page via credit card",
+      "uid" : "d9319b04cf3ddb77",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1642382476198,
+        "stop" : 1642382487919,
+        "duration" : 11721
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "should successfully navigate to home page",
+      "uid" : "40398fef5a9b0040",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369084974,
+        "stop" : 1642369086834,
+        "duration" : 1860
       },
       "flaky" : false,
       "newFailed" : false,

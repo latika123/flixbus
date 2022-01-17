@@ -1,5 +1,5 @@
 {
-  "uid" : "621042ebba5186b1",
+  "uid" : "a8a0d7e865dc1e6d",
   "name" : "should successfully navigate to checkout page",
   "fullName" : "FlixBus Application Checkout Page Test.should successfully navigate to checkout page",
   "historyId" : "e0b645ec2d050c8e54a302e8cc4b1dea",
@@ -45,14 +45,12 @@
     "value" : "chrome-97.0.4692.71"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "621042ebba5186b1.json",
+  "source" : "a8a0d7e865dc1e6d.json",
   "parameterValues" : [ "chrome-97.0.4692.71" ]
 }

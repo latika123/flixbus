@@ -31,17 +31,11 @@ class CheckoutPage extends Page {
 
     public get paymentItemPaywithCC()
     {
-        // return $('label.hcr-radio__label-2-4-3')
-        // return $('//label[@for="adyen_adyenCC"]')
         return $('fieldset.hcr-fieldset-2-4-3>div+div>div>div>div>div>label')
-        // return $('//span[contains(text(),"Credit card")]')
-        // return $('//input[@name="payment_item"][@id="adyen_adyenCC"]')
     }
 
     public get paymentItemPaywithGoogle()
     {
-        // return $('fieldset.hcr-fieldset-2-4-3>div+div>div>div>div>div>label')
-        // return $('//input[@name="payment_item"][@id="adyen_paywithgoogle"]')
         return $('//label[@for="adyen_paywithgoogle"]')
     }
 
@@ -58,22 +52,15 @@ class CheckoutPage extends Page {
     public get cardNumberSpan()
     {
         return $('//span[@data-cse="encryptedCardNumber"]')
-        // return $('//input[@data-fieldtype="encryptedCardNumber"]')
     }
 
     public get cardDetailsFrame()
     {
-        // return $('//span[@data-cse="encryptedCardNumber"]/iframe')
         return $('//iframe[@class="js-iframe" and @title="Iframe for secured card number"]')
-        // return $('//span[@data-cse="encryptedCardNumber"]/iframe[@class="js-iframe" and @title="Iframe for secured card number"]')
-        //  return $('//input[@data-fieldtype="encryptedCardNumber"]')
     }
 
     public get cardNumberTxtBox()
     {
-        // return $('//span[@data-cse="encryptedCardNumber"]/iframe')
-        //  return $('//input[@data-fieldtype="encryptedCardNumber"]')
-        //  return $('.js-iframe-input.input-field')
          return $('//input[@id="shiftTabField"]')
     }
 

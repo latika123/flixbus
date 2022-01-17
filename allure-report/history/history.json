@@ -9,12 +9,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "868ab4006e574131",
+      "uid" : "7907044fd9db0664",
       "status" : "passed",
       "time" : {
-        "start" : 1642369095548,
-        "stop" : 1642369100982,
-        "duration" : 5434
+        "start" : 1642382568950,
+        "stop" : 1642382572509,
+        "duration" : 3559
+      }
+    } ]
+  },
+  "d85c7126861b492336231a4ce51f47f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "126869084e42227f",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//input[@id=\"shiftTabField\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1642382555553,
+        "stop" : 1642382568950,
+        "duration" : 13397
       }
     } ]
   },
@@ -28,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "621042ebba5186b1",
+      "uid" : "93c4742ce3758738",
       "status" : "passed",
       "time" : {
-        "start" : 1642369090019,
-        "stop" : 1642369094969,
-        "duration" : 4950
+        "start" : 1642382549533,
+        "stop" : 1642382554827,
+        "duration" : 5294
       }
     } ]
   },
@@ -47,12 +67,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4a9c3dee34ec2f53",
+      "uid" : "1158a49a0b49620e",
       "status" : "passed",
       "time" : {
-        "start" : 1642369086843,
-        "stop" : 1642369090019,
-        "duration" : 3176
+        "start" : 1642382545816,
+        "stop" : 1642382549532,
+        "duration" : 3716
       }
     } ]
   },
@@ -66,12 +86,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3a61709a41bb85e6",
+      "uid" : "fa4e736fef7e5005",
       "status" : "passed",
       "time" : {
-        "start" : 1642369084974,
-        "stop" : 1642369086834,
-        "duration" : 1860
+        "start" : 1642382543903,
+        "stop" : 1642382545797,
+        "duration" : 1894
       }
     } ]
   },
@@ -85,12 +105,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3cd96a045a459e51",
+      "uid" : "710f32fcc81f208b",
       "status" : "passed",
       "time" : {
-        "start" : 1642369094970,
-        "stop" : 1642369095548,
-        "duration" : 578
+        "start" : 1642382554828,
+        "stop" : 1642382555552,
+        "duration" : 724
       }
     } ]
   }

@@ -1,12 +1,12 @@
 {
-  "uid" : "4a9c3dee34ec2f53",
+  "uid" : "1158a49a0b49620e",
   "name" : "should successfully navigate to listing page",
   "fullName" : "FlixBus Application Checkout Page Test.should successfully navigate to listing page",
   "historyId" : "6c1734013d9c96cbc53e5cb4589b9f1a",
   "time" : {
-    "start" : 1642369086843,
-    "stop" : 1642369090019,
-    "duration" : 3176
+    "start" : 1642382545816,
+    "stop" : 1642382549532,
+    "duration" : 3716
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -49,10 +49,26 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "3b7b9f1581267534",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642382461980,
+        "stop" : 1642382465057,
+        "duration" : 3077
+      }
+    }, {
+      "uid" : "f5e9ff8f7c2228ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642369086843,
+        "stop" : 1642369090019,
+        "duration" : 3176
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4a9c3dee34ec2f53.json",
+  "source" : "1158a49a0b49620e.json",
   "parameterValues" : [ "chrome-97.0.4692.71" ]
 }
