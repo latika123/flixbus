@@ -1,5 +1,3 @@
-import { ChainablePromiseElement } from 'webdriverio';
-
 import Page from './page';
 
 /**
@@ -18,7 +16,7 @@ class HomePage extends Page {
     }
 
     public get selectDate(){
-        return $('//span[@data-date="2022-01-27"]');
+        return $('//span[@data-date="2022-05-27"]');
     }
 
     public get searchButton(){

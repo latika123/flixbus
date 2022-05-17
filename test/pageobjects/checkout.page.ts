@@ -85,7 +85,7 @@ class CheckoutPage extends Page {
     }
     public get termsConditionsChkBox()
     {
-    return $('label.hcr-checkbox__label-2-4-3')
+    return $('label.hcr-checkbox__label-3-2-3')
     }
 
     public get proceedToPaymentBtn()
